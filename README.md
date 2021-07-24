@@ -7,3 +7,10 @@ The company wants to know the following things about the prospective properties:
 
 - Which variables are significant in predicting the price of a house, and
 - How well those variables describe the price of a house.
+
+
+### Files:
+Python Notebook: `regularization.ipynb`
+Data: `train.csv` (Test set was not provided for the sake of private leaderboard scoring)
+Data Dctionary: `data_description.txt`
+Subjective Questions: `QnA.pdf`
