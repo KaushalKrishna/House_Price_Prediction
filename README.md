@@ -10,7 +10,7 @@ The company wants to know the following things about the prospective properties:
 
 
 ### Files:
-Python Notebook: `regularization.ipynb` <br>
-Data: `train.csv` _(Test set was not provided for the sake of private leaderboard scoring)_ <br>
-Data Dctionary: `data_description.txt` <br>
-Subjective Questions: `QnA.pdf` 
+__Python Notebook:__ `regularization.ipynb` <br>
+__Data:__ `train.csv` _(Test set was not provided for the sake of private leaderboard scoring)_ <br>
+__Data Dctionary:__ `data_description.txt` <br>
+__Subjective Questions:__ `QnA.pdf` 
