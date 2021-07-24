@@ -11,6 +11,6 @@ The company wants to know the following things about the prospective properties:
 
 ### Files:
 Python Notebook: `regularization.ipynb` <br>
-Data: `train.csv` (Test set was not provided for the sake of private leaderboard scoring) <br>
+Data: `train.csv` _(Test set was not provided for the sake of private leaderboard scoring)_ <br>
 Data Dctionary: `data_description.txt` <br>
 Subjective Questions: `QnA.pdf` 
